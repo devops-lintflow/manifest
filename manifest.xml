@@ -2,8 +2,9 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
+  <project name="checkstyle.git" path="checkstyle" />
   <project name="cpplint.git" path="cpplint" />
-  <project name="cpplint-extension.git" path="cpplint-extension" />
+  <project name="cpplint-vscode.git" path="cpplint-vscode" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintwork.git" path="lintwork" />
 </manifest>
