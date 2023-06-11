@@ -5,9 +5,12 @@
   <project name="cpplint.git" path="cpplint" />
   <project name="cpplint-jetbrains.git" path="cpplint-jetbrains" />
   <project name="cpplint-vscode.git" path="cpplint-vscode" />
+  <project name="docker.git" path="docker" />
   <project name="javalint.git" path="javalint" />
   <project name="javalint-jetbrains.git" path="javalint-jetbrains" />
   <project name="javalint-vscode.git" path="javalint-vscode" />
+  <project name="jenkins.git" path="jenkins" />
+  <project name="linters.git" path="linters" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintwork.git" path="lintwork" />
 </manifest>
