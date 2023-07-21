@@ -2,6 +2,7 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
+  <project name="androidlint.git" path="androidlint" />
   <project name="cpplint.git" path="cpplint" />
   <project name="cpplint-jetbrains.git" path="cpplint-jetbrains" />
   <project name="cpplint-vscode.git" path="cpplint-vscode" />
