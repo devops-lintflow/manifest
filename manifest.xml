@@ -13,5 +13,5 @@
   <project name="linters.git" path="linters" />
   <project name="lintflow.git" path="lintflow" />
   <project name="lintwork.git" path="lintwork" />
-  <project name="xmllint.git" path="xmllint" />
+  <project name="xmllint-vscode.git" path="xmllint-vscode" />
 </manifest>
